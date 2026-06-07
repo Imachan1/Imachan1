@@ -25,8 +25,6 @@ Fullstack developer passionate about PHP, Laravel, CRM systems and creative proj
 
 <h3 align="left">Tech Stack:</h3>
 
-<h3 align="left">Tech Stack:</h3>
-
 ![Android](https://img.shields.io/badge/android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
@@ -58,6 +56,8 @@ Fullstack developer passionate about PHP, Laravel, CRM systems and creative proj
 <h3 align="left">GitHub Stats:</h3>
 
 
+<h3 align="left">GitHub Stats:</h3>
+
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=imachan1&theme=tokyonight&hide_border=true&background=0D1117" />
+  <img src="https://streak-stats.demolab.com?user=imachan1&hide_border=true&background=0D1117&ring=FCD2F2&fire=FCD2F2&currStreakNum=F5E9F8&sideNums=F5E9F8&currStreakLabel=FCD2F2&sideLabels=FCD2F2&dates=F5E9F8" />
 </p>
