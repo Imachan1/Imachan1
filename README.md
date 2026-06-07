@@ -53,8 +53,6 @@ Fullstack developer passionate about PHP, Laravel, CRM systems and creative proj
 
 ---
 
-<h3 align="left">GitHub Stats:</h3>
-
 
 <h3 align="left">GitHub Stats:</h3>
 
