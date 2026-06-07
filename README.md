@@ -57,11 +57,6 @@ Fullstack developer passionate about PHP, Laravel, CRM systems and creative proj
 
 <h3 align="left">GitHub Stats:</h3>
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=imachan1&theme=tokyonight&show_icons=true&hide_border=true&bg_color=0d1117" />
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imachan1&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-</p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=imachan1&theme=tokyonight&hide_border=true&background=0D1117" />
